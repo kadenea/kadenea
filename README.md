@@ -9,7 +9,7 @@
 CompTIA A+ (_expected 12/24_)
 
 ## Connect With Me
-[LinkedIn](www.linkedin.com/in/kaden-anderson-33481b32b)
+[LinkedIn](https://www.linkedin.com/in/kaden-anderson-33481b32b)
 
 [Instagram](https://www.instagram.com/kaden_a_18/)
 
