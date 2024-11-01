@@ -2,7 +2,7 @@
 
 ## Cybersecurity Projects
 
-[Wireshark for Beginners: Capture Packets](https://kadenea.github.io/)
+[Wireshark for Beginners: Capture Packets](https://WiresharkCapturePackets.github.io/)
 
 ## Certifications
 
