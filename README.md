@@ -6,7 +6,7 @@
 
 [SOC Automation Project](https://kadenea.github.io/SOCAutomation/)
 
-[Personal Computer Build]()
+[Personal Computer Build](https://kadenea.github.io/Personal-Computer-Build/)
 
 ## Certifications
 
