@@ -3,6 +3,7 @@
 ## Cybersecurity Projects
 
 [Wireshark for Beginners: Capture Packets](https://kadenea.github.io/WiresharkCapturePackets/)
+
 [SOC Automation Project](https://kadenea.github.io/WiresharkCapturePackets/)
 
 ## Certifications
