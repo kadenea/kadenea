@@ -6,7 +6,7 @@
 
 ## Certifications
 
-CompTIA A+ (_expected 12/24_)
+CompTIA A+ (_expected 1/25_)
 
 ## Connect With Me
 [LinkedIn](https://www.linkedin.com/in/kaden-anderson-33481b32b)
