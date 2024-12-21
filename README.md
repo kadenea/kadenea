@@ -6,6 +6,8 @@
 
 [SOC Automation Project](https://kadenea.github.io/SOCAutomation/)
 
+[Personal Computer Build]()
+
 ## Certifications
 
 CompTIA A+ (_expected 1/25_)
