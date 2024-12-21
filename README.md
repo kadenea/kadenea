@@ -1,6 +1,6 @@
 # Hi, I’m Kaden!
 
-## Cybersecurity Projects
+## Projects
 
 [Wireshark for Beginners: Capture Packets](https://kadenea.github.io/WiresharkCapturePackets/)
 
